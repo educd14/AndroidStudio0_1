@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic</string>
+    <string name="textoBoton">Click</string>
+    <string name="texto">Saludo</string>
+    <string name="action_settings">Settings</string>
+    <string name="image">TODO</string>
+</resources>
